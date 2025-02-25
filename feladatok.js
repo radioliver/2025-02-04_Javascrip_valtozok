@@ -11,3 +11,4 @@ let sugar = prompt("Adj meg egy sugarat:");
 let kerulett = sugar * 2 * Math.PI;
 let terulett = sugar * sugar * Math.PI;
 console.log(`A kört terulete: ${terulett}, kerulete: ${kerulett}`);
+

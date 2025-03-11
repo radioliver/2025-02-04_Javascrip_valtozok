@@ -1,3 +1,6 @@
 console.log("6. feladat:")
+
+function dobas() {
 let dobas = Math.floor(Math.random()*6)+1
-console.log(dobas)
+document.getElementById("dobas").innerHTML = dobas
+}

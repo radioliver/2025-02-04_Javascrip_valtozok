@@ -19,3 +19,12 @@ do {
     console.log(i);
     i2++;
 } while (i <= 5);
+
+let i3 = 1;
+while (true) {
+if (i3 > 5) {
+break;
+}
+console.log(i);
+i3++;
+}
